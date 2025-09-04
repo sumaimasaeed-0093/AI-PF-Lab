@@ -10,3 +10,12 @@ Unordered List
 _This is for Italic_
 ~~This is for~~
 Learning GitHub
+
+Ordererd List
+<br/>
+1. PF-Lab 1
+2. PF-Lab 2
+3. PF-Lab3
+
+
+  
